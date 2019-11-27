@@ -1,0 +1,7 @@
+influx:
+  host: "address"
+  port: 8086
+  login: "login"
+  password: "password"
+  
+queries: "queries.json"
